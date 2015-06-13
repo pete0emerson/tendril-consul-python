@@ -293,6 +293,12 @@ tendril uses commands and sub-commands  to accomplish its tasks.
       --version TEXT
       --help          Show this message and exit.
 
+### key
+
+#### generate
+
+#### rotate
+
 # Advanced Usage
 
 Tendril can inherit values from other configurations. For example, if you have a
